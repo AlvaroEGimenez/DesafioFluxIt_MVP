@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/buscar"
+        android:title="buscar"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/grid"
+        android:icon="@drawable/ic_grid_on_white_24dp"
+        app:showAsAction="always"
+        android:title="Vista" />
+
+    <item
+        android:id="@+id/mas_opciones"
+        android:title="mas opciones"/>
+
+
+</menu>
